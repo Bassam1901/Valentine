@@ -1,11 +1,12 @@
 const phrases = [
-    "NO",
-    "Ya 7aywana ?",
-    "Hnhzr ?",
-    "?????",
-    "Wallahi ?",
-    "Ha2ol l omk .. ",
-  ];
+	"NO",
+	"Ya 7aywana ?",
+	"Hnhzr ?",
+	"Bselaaa?????",
+	"Wallahi ?",
+	"Ha2ol l omk ya Rawan.. "
+];
+
 
 
 
@@ -43,4 +44,5 @@ yesBtn.addEventListener("click", () => {
 
   can1.style.display = "none";
 });
+
 
